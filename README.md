@@ -24,7 +24,7 @@ The following REQUIRED features are completed:
 
 The following STRETCH features are implemented:
 
-- [ ] TODO
+- [x] TODO
 
 The following EXTRA features are implemented:
 
