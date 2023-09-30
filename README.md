@@ -37,7 +37,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 ![](https://github.com/liceyoung/AND101_Project2/blob/main/Project2_Thao%20Duong.gif)
 
 
-GIF created with **your chosen GIF tool**
+GIF created with **MacOS screen recorder**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
@@ -45,8 +45,6 @@ GIF created with **your chosen GIF tool**
 - [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
 - Kotlin syntax
 - Debug and fix a broken app by modifying Kotlin code
 
